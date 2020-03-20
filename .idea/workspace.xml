@@ -1,7 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af03d07b-a0d0-4745-b319-500eccf06050" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/uploads/51u6y9Rm8QL._SY300_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Agnes_Case_for_Samsung_Galaxy_S6_(1)__92643_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/Lumia1520-Front-Back-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/_35 (1).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/htc-one-m7-802w-dual-sim-silver.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/uploads/iphone5c-selection-hero-2013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/api/mockCategories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/api/mockPhones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/assets/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/assets/svg/bin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/assets/svg/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/assets/svg/supermarket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/component/basketCart/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/component/category/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/component/modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/component/navigation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/component/search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/component/sidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/config/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/admin/addPhone/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/admin/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/basket/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/phone/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/phone/phone.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/phones/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/containers/phones/phones.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/basket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/editPhone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/phonePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/phones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/reducers/phonesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node_modules/selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yc9GRpUr0Rup6HCxSnOwpPyooG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../landing" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\shop-react\src\node_modules\assets\svg" />
+      <recent name="D:\shop-react\public\uploads" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\shop-react\src\node_modules\assets\svg" />
+      <recent name="D:\shop-react\src\node_modules\assets\images" />
+      <recent name="D:\shop-react\public\images" />
+      <recent name="D:\shop-react\public\uploads" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af03d07b-a0d0-4745-b319-500eccf06050" name="Default Changelist" comment="" />
+      <created>1583230919604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583230919604</updated>
+      <workItem from="1583230921253" duration="41961000" />
+      <workItem from="1583400829103" duration="23105000" />
+      <workItem from="1583485777611" duration="18317000" />
+      <workItem from="1583831913138" duration="21887000" />
+      <workItem from="1583865294269" duration="190000" />
+      <workItem from="1584020248257" duration="625000" />
+      <workItem from="1584091129640" duration="21374000" />
+      <workItem from="1584349378772" duration="9303000" />
+      <workItem from="1584358901035" duration="1797000" />
+      <workItem from="1584459466118" duration="9275000" />
+      <workItem from="1584549203874" duration="1437000" />
+      <workItem from="1584612137208" duration="4663000" />
+      <workItem from="1584618815557" duration="34479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
